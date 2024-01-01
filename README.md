@@ -11,7 +11,7 @@
 2. Navigate to the project directory:
 
     ```bash
-    cd BMI-Calculator
+    cd BMI_calculator
     ```
 
 3. Install dependencies using npm:
